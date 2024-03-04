@@ -1,2 +1,2 @@
 # flux-gitops-deployments
-gitops deployments pos
+gitops deployments poc
